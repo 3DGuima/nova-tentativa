@@ -19,7 +19,7 @@ sections:
         default_value: Digite seu endereço de email...
         is_required: true
       - input_type: select
-        name: aSSUNTO
+        name: Assunto
         label: Assunto
         default_value: Selecione um ítem...
         options:
