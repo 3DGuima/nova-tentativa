@@ -83,7 +83,7 @@
             {
                 "label": "Whatsapp",
                 "url": "https://api.whatsapp.com/send?phone=5514988098545&text=",
-                "style": "link",
+                "style": "icon",
                 "icon_class": "lorem-ipsum",
                 "new_window": false,
                 "type": "action"
