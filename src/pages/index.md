@@ -25,7 +25,7 @@ sections:
 
       Entre em contato e mande sua mensagem.
     actions:
-      - label: Contact Me
+      - label: CONTATO
         url: /contact
         style: button
   - section_id: recent-posts
