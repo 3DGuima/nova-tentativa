@@ -1,5 +1,5 @@
 ---
-title: Conta
+title: Contato
 hide_title: false
 sections:
   - section_id: contact-form
