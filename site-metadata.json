@@ -74,7 +74,7 @@
                 "new_window": true
             },
             {
-                "label": "|\\Pinterest",
+                "label": "Pinterest",
                 "url": "https://api.whatsapp.com/send?phone=5514988098545&text=",
                 "style": "icon",
                 "icon_class": "fa-pinterest",
