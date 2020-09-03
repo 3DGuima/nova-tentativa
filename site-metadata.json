@@ -76,7 +76,7 @@
                 "label": "Vimeo",
                 "url": "https://vimeo.com/3dguima",
                 "style": "icon",
-                "icon_class": "fa-linked",
+                "icon_class": "fa-vimeo",
                 "new_window": false,
                 "type": "action"
             }
