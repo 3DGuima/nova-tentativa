@@ -27,7 +27,7 @@ sections:
           - Dúvidas técnicas ou profissionais
           - Outro assunto
       - input_type: textarea
-        name: Menssage
+        name: Menssagem
         label: Message
         default_value: Your message
       - input_type: checkbox
