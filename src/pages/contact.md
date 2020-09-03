@@ -36,7 +36,7 @@ sections:
           Eu entendo que este formulário está armazenando meu email e mensagem,
           fornecidos por mim, para que eu possa ser contatado.
         options: []
-        is_required: false
+        is_required: true
     submit_label: Enviar
 template: advanced
 ---
