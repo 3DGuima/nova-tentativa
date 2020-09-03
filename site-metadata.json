@@ -75,7 +75,7 @@
             {
                 "label": "Vimeo",
                 "url": "https://vimeo.com/3dguima",
-                "style": "link",
+                "style": "icon",
                 "icon_class": "lorem-ipsum",
                 "new_window": false,
                 "type": "action"
