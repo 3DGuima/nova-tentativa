@@ -7,7 +7,7 @@ sections:
     title: 3DGuima
     content: >-
       Aqui você encontrará meu portfolio, alguns de meus trabalhos e meu
-      currículo.
+      currículo.</br>
 
       Espero que aprecie.
 
