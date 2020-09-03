@@ -21,7 +21,7 @@ sections:
       - input_type: select
         name: subject
         label: Assunto
-        default_value: Selecione
+        default_value: Selecione um ítem...
         options:
           - Contratar um trabalho
           - Sponsorship
