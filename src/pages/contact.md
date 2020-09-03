@@ -36,18 +36,5 @@ sections:
           Eu entendo que este formulário está armazenando meu email e mensagem,
           fornecidos por mim, para que eu possa ser contatado.
     submit_label: Enviar
-  - title: lorem-ipsum
-    section_id: lorem-ipsum
-    content: >-
-      ## Lorem ipsum
-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua.
-
-      - Lorem ipsum
-
-      - dolor sit amet
-    actions: []
-    type: section_content
 template: advanced
 ---
