@@ -24,7 +24,7 @@ sections:
         default_value: Selecione um ítem...
         options:
           - Contratar um trabalho
-          - ''
+          - Dúvidas técnicas
           - Other
       - input_type: textarea
         name: message
