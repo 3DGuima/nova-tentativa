@@ -28,7 +28,7 @@ sections:
           - Outro assunto
       - input_type: textarea
         name: Menssagem
-        label: Message
+        label: Menssagem
         default_value: Your message
       - input_type: checkbox
         name: consent
