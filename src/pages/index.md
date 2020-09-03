@@ -28,6 +28,12 @@ sections:
       - label: CONTATO
         url: /contact
         style: button
+      - label: lorem-ipsum
+        url: lorem-ipsum
+        style: link
+        icon_class: lorem-ipsum
+        new_window: false
+        type: action
   - section_id: recent-posts
     type: section_posts
     title: Recent Posts
