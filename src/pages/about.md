@@ -1,7 +1,7 @@
 ---
 title: Quem sou eu...
 subtitle: Um breve resumo sobre minha trajetória de vida.
-img_path: images/nós04.png
+img_path: images/spectacular-hedgehog.png
 template: page
 ---
 Na mesma época de minha “primeira carteira assinada”, no Centrinho em Bauru (Hospital de Reabilitação de Anomalias Craniofaciais - USP, de Bauru / FOB - Faculdade de Odontologia de Bauru); e estamos falando aí dos anos de 1987 / 1988, me tornei o atirador 044, no Tiro de Guerra 02-054 de Bauru.
