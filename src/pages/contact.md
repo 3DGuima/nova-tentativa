@@ -14,7 +14,7 @@ sections:
         default_value: Seu nome
         is_required: true
       - input_type: email
-        name: email
+        name: Digite seu endereço de email
         label: Email
         default_value: Your email address
         is_required: true
