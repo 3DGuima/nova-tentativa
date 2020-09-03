@@ -39,5 +39,5 @@ sections:
         is_required: true
     submit_label: Enviar
 template: advanced
-excerpt: Utilize
+excerpt: Utilize este formulário para entrar em contato com o administrador d
 ---
