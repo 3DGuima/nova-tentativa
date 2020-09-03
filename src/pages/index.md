@@ -16,10 +16,14 @@ sections:
     type: section_content
     title: RESUMO
     content: >-
-      This is the "about" excerpt. It can be used to provide a paragraph about
-      yourself that people can read on the homepage to get a sense of who you
-      are. There also exists a dedicated about page where you can write more
-      about yourself for those who are interested.
+      Sou publicitário por formação acadêmica, designer, diagramador e artista
+      3D, além de algumas outras competências que venho desenvolvendo, com muito
+      estudo, sempre em busca de um melhor aperfeiçoamento e capacitação
+      profissional.</br>
+
+      Fico à disposição para conevrsarmos.</br>
+
+      Entre em contato e mande sua mensagem.
     actions:
       - label: Contact Me
         url: /contact
