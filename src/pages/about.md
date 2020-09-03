@@ -1,6 +1,6 @@
 ---
 title: Quem sou eu...
-subtitle: Esta é uma síntese
+subtitle: Esta é uma síntese sobre minha história
 img_path: images/about.jpg
 template: page
 ---
