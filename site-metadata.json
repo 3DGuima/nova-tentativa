@@ -82,7 +82,7 @@
             },
             {
                 "label": "Whatsapp",
-                "url": "lorem-ipsum",
+                "url": "https://api.whatsapp.com/send?phone=5514988098545&text=",
                 "style": "link",
                 "icon_class": "lorem-ipsum",
                 "new_window": false,
