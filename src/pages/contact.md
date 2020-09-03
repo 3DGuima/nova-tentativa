@@ -35,6 +35,8 @@ sections:
         label: >-
           Eu entendo que este formulário está armazenando meu email e mensagem,
           fornecidos por mim, para que eu possa ser contatado.
+        options:
+          - lorem-ipsum
     submit_label: Enviar
 template: advanced
 ---
