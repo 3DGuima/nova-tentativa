@@ -6,8 +6,14 @@ sections:
     type: section_hero
     title: 3DGuima
     content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+      Aqui você encontrará meu portfolio, alguns de meus trabalhos e meu
+      currículo.
+
+
+      Espero que aprecie.
+
+
+      Seja bem vindo!
   - section_id: about
     type: section_content
     title: About
