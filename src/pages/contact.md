@@ -25,7 +25,7 @@ sections:
         options:
           - Contratar um trabalho
           - Dúvidas técnicas ou profissionais
-          - Outra coisa
+          - Outro assunto
       - input_type: textarea
         name: message
         label: Message
