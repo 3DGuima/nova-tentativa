@@ -53,17 +53,17 @@
                 "new_window": true
             },
             {
-                "label": "Twitter",
-                "url": "https://twitter.com/_3DGuima",
-                "style": "icon",
-                "icon_class": "fa-twitter",
-                "new_window": true
-            },
-            {
                 "label": "Instagram",
                 "url": "https://www.instagram.com/",
                 "style": "icon",
                 "icon_class": "fa-instagram",
+                "new_window": true
+            },
+            {
+                "label": "Twitter",
+                "url": "https://twitter.com/_3DGuima",
+                "style": "icon",
+                "icon_class": "fa-twitter",
                 "new_window": true
             },
             {
