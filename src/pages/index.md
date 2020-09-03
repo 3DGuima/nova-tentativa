@@ -9,9 +9,7 @@ sections:
       Aqui você encontrará meu portfolio, alguns de meus trabalhos e meu
       currículo.
 
-
       Espero que aprecie.
-
 
       Seja bem vindo!
   - section_id: about
