@@ -16,10 +16,10 @@ sections:
     type: section_content
     title: RESUMO
     content: >-
-      Sou publicitário por formação acadêmica, designer, diagramador e artista
-      3D, além de algumas outras competências que venho desenvolvendo, com muito
-      estudo, sempre em busca de um melhor aperfeiçoamento e capacitação
-      profissional.</br>
+      Sou publicitário por formação acadêmica, sou designer, diagramador e
+      artista 3D, além de algumas outras competências que venho desenvolvendo,
+      com muito estudo, sempre em busca de um melhor aperfeiçoamento e
+      capacitação profissional.</br>
 
       Fico à disposição para conevrsarmos.</br>
 
