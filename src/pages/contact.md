@@ -9,7 +9,7 @@ sections:
     form_action: /thank-you
     form_fields:
       - input_type: text
-        name: 'Digite '
+        name: Digite seu nome...
         label: Nome
         default_value: Seu nome
         is_required: true
