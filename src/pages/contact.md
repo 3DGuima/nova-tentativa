@@ -11,7 +11,7 @@ sections:
       - input_type: text
         name: Digite seu nome...
         label: Nome
-        default_value: Seu nome
+        default_value: Seu nome...
         is_required: true
       - input_type: email
         name: Digite seu endereço de email
