@@ -38,6 +38,14 @@
         "has_social": true,
         "social_links": [
             {
+                "label": "Vimeo",
+                "url": "https://vimeo.com/3dguima",
+                "style": "icon",
+                "icon_class": "fa-vimeo",
+                "new_window": true,
+                "type": "action"
+            },
+            {
                 "label": "Twitter",
                 "url": "https://twitter.com/_3DGuima",
                 "style": "icon",
@@ -71,14 +79,6 @@
                 "style": "icon",
                 "icon_class": "fa-dev",
                 "new_window": true
-            },
-            {
-                "label": "Vimeo",
-                "url": "https://vimeo.com/3dguima",
-                "style": "icon",
-                "icon_class": "fa-vimeo",
-                "new_window": true,
-                "type": "action"
             }
         ]
     },
