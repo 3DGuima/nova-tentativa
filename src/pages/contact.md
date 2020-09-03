@@ -23,7 +23,7 @@ sections:
         label: Assunto
         default_value: Please select
         options:
-          - Error on the site
+          - Contratar um trabalho
           - Sponsorship
           - Other
       - input_type: textarea
