@@ -101,7 +101,7 @@
             },
             {
                 "label": "3DGuima",
-                "url": "lorem-ipsum",
+                "url": "mailto:",
                 "style": "link",
                 "icon_class": "lorem-ipsum",
                 "new_window": false,
