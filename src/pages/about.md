@@ -1,6 +1,6 @@
 ---
 title: Quem sou eu...
-subtitle: Esta é uma síntese sobre mim; um resumo da minha história.
+subtitle: Um breve resumo sobre minha trajetória de vida.
 img_path: images/nós04.png
 template: page
 ---
