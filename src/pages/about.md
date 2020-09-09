@@ -55,7 +55,7 @@ Cheguei a ter uma pequena empresa de venda e manutenção de computadores, e lá
 
 ----
 
-## Agora vamos dar um destaque aqui sobre, **"POSICIONAMENTO"**…
+### Agora vamos dar um destaque aqui sobre, **"POSICIONAMENTO"**…
 
 Sempre gostei muito de poder ensinar o que sabia para quem eu pudesse ensinar, ou para quem quisesse aprender.
 
@@ -170,7 +170,7 @@ E amanhã sempre será um bom dia, pra que eu possa ser um homem melhor do que f
 
 </br>
 
->## - Chico Xavier disse:
+>### - Chico Xavier disse:
 >A gente pode morar numa casa mais ou menos, numa rua mais ou menos, numa cidade mais ou menos, e até ter um governo mais ou menos.><br>
 >A gente pode dormir numa cama mais ou menos, comer um feijão mais ou menos, ter um transporte mais ou menos, e até ser obrigado a acreditar mais ou menos no futuro.
 A gente pode olhar em volta e sentir que tudo está mais ou menos…
@@ -183,7 +183,7 @@ Senão a gente corre o risco de se tornar uma pessoa mais ou menos.
 
 </br>
 
->## - Jesus disse:
+>### - Jesus disse:
 >Amar a Deus sobre todas as coisas!”
 Amar ao próximo como a ti mesmo!.
 
