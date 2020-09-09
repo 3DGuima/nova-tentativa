@@ -158,18 +158,12 @@ E defendo, com unhas e dentes, o seu direito de pensar da mesma forma ou pensar 
 
 </br>
 
-Não sou melhor nem pior do que qualquer outra pessoa.
-
-Sou **PACÍFICO** mas **não sou PASSIVO**!
-
-Não quero ser o melhor do mundo, nem o melhor de todos.
-
-Quero e vou ser o melhor possível, do que eu era ontem.
-
+Não sou melhor nem pior do que qualquer outra pessoa.</br>
+Sou **PACÍFICO** mas **não sou PASSIVO**!</br>
+Não quero ser o melhor do mundo, nem o melhor de todos.</br>
+Quero e vou ser o melhor possível, do que eu era ontem.</br>
 E amanhã sempre será um bom dia, pra que eu possa ser um homem melhor do que fui hoje.
-
 </br>
-
 >### - Chico Xavier disse:
 >A gente pode morar numa casa mais ou menos, numa rua mais ou menos, numa cidade mais ou menos, e até ter um governo mais ou menos.><br>
 >A gente pode dormir numa cama mais ou menos, comer um feijão mais ou menos, ter um transporte mais ou menos, e até ser obrigado a acreditar mais ou menos no futuro.
@@ -180,7 +174,7 @@ A gente pode olhar em volta e sentir que tudo está mais ou menos…
 >O que a gente não pode mesmo, nunca, de jeito nenhum…<br>
 É amar mais ou menos, sonhar mais ou menos, ser amigo mais ou menos, namorar mais ou menos, ter fé mais ou menos, e acreditar mais ou menos.<br>
 Senão a gente corre o risco de se tornar uma pessoa mais ou menos.
-
+>
 >### - Jesus disse:
 >Amar a Deus sobre todas as coisas!”
 Amar ao próximo como a ti mesmo!.
