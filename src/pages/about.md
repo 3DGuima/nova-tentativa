@@ -106,7 +106,7 @@ E com isso lhe afirmo então - "Ser legal é um estado de espírito, é uma esco
 
 </br>
 
->## - Um certo barbudo por aí, disse:
+>### <span style="color: grey;">- Um certo barbudo por aí, disse:</span>
 >"Em cima do muro” é aquele lugar em que você terá a ilusão da segurança em não escolher um lado, achando que você poderá se beneficiar de todos os lados, até que um desses lados, ou todos eles, derrubem o muro.
 ></br>
 >
@@ -114,10 +114,8 @@ E com isso lhe afirmo então - "Ser legal é um estado de espírito, é uma esco
 >- A sua suposta segurança
 >- A fantasia de qualquer benefício futuro da isenção eterna
 >- E a sua oportunidade, até então, de escolher um lado, de se **"POSICIONAR"**
-
-</br>
-
->## - Esse barbudo disse também:
+>
+>### <span style="color: grey;">- Esse barbudo disse também:</span>
 >O “auto intitulado” “pessoa de bem”, quando nulo ou isento, é um praticante e colaborador “DO MAL”.</br>
 Muito maior, do que o "inocente útil ignorante manipulado" ou o "assecla assumido", que o faz de forma ativa.
 
@@ -153,7 +151,7 @@ E defendo, com unhas e dentes, o seu direito de pensar da mesma forma ou pensar 
 
 </br>
 
->## E você aí, como está?
+>### E você aí, como está?
 >Já aprendeu ou produziu alguma coisa nova, alguma coisa boa, já ensinou ou ajudou alguém de alguma forma produtiva hoje?
 
 </br>
@@ -164,7 +162,7 @@ Não quero ser o melhor do mundo, nem o melhor de todos.</br>
 Quero e vou ser o melhor possível, do que eu era ontem.</br>
 E amanhã sempre será um bom dia, pra que eu possa ser um homem melhor do que fui hoje.
 </br>
->### - Chico Xavier disse:
+>### <span style="color: grey;">- Chico Xavier disse:</span>
 >A gente pode morar numa casa mais ou menos, numa rua mais ou menos, numa cidade mais ou menos, e até ter um governo mais ou menos.><br>
 >A gente pode dormir numa cama mais ou menos, comer um feijão mais ou menos, ter um transporte mais ou menos, e até ser obrigado a acreditar mais ou menos no futuro.
 A gente pode olhar em volta e sentir que tudo está mais ou menos…
