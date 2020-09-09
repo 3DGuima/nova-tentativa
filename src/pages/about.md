@@ -175,7 +175,7 @@ A gente pode olhar em volta e sentir que tudo está mais ou menos…
 É amar mais ou menos, sonhar mais ou menos, ser amigo mais ou menos, namorar mais ou menos, ter fé mais ou menos, e acreditar mais ou menos.<br>
 Senão a gente corre o risco de se tornar uma pessoa mais ou menos.
 >
->### - Jesus disse:
+>### <span style="color: grey;">- Jesus disse:</span>
 >Amar a Deus sobre todas as coisas!”
 Amar ao próximo como a ti mesmo!.
 
