@@ -103,9 +103,7 @@ Seguir por esse caminho me rendeu, **“Graças a Deus”**, uma família linda,
 Me rendeu também pouquíssimos amigos, mas **VERDADEIROS AMIGOS**, alguns que já nem são mais tão “só amigos”; pois subiram “de patente” e hoje são meus irmãos.
 
 E com isso lhe afirmo então - "Ser legal é um estado de espírito, é uma escolha, é consciência, consequência, e mais uma vez, **POSICIONAMENTO**.
-
 </br>
-
 >### <span style="color: grey;">- Um certo barbudo por aí, disse:</span>
 >"Em cima do muro” é aquele lugar em que você terá a ilusão da segurança em não escolher um lado, achando que você poderá se beneficiar de todos os lados, até que um desses lados, ou todos eles, derrubem o muro.
 ></br>
@@ -118,9 +116,7 @@ E com isso lhe afirmo então - "Ser legal é um estado de espírito, é uma esco
 >### <span style="color: grey;">- Esse barbudo disse também:</span>
 >O “auto intitulado” “pessoa de bem”, quando nulo ou isento, é um praticante e colaborador “DO MAL”.</br>
 Muito maior, do que o "inocente útil ignorante manipulado" ou o "assecla assumido", que o faz de forma ativa.
-
 </br>
-
 Parei de tentar agradar a todo mundo faz muito tempo!
 
 Entendi que “o politicamente correto”, só existe politicamente, que não é correto e que a política da convivência social não é a mesma que a política partidária, apesar de tanto nos tentarem fazer misturar as duas coisas.
@@ -147,21 +143,19 @@ Meu direito de liberdade de expressão, de ir e vir e de atuação dentro de uma
 
 Da mesma forma, **meu direito "em garantir isso"**
 
-E defendo, com unhas e dentes, o seu direito de pensar da mesma forma ou pensar diferente, desde que respeite, assim como eu respeito, as leis dos homens, e principalmente as **Leis de Deus**.
-
+E defendo, com unhas e dentes, o seu direito de pensar da mesma forma ou pensar diferente, desde que respeite, assim como eu respeito, as leis dos homens, e principalmente as **Leis de Deus!**
 </br>
-
 >### E você aí, como está?
 >Já aprendeu ou produziu alguma coisa nova, alguma coisa boa, já ensinou ou ajudou alguém de alguma forma produtiva hoje?
 
-</br>
 
 Não sou melhor nem pior do que qualquer outra pessoa.</br>
 Sou **PACÍFICO** mas **não sou PASSIVO**!</br>
 Não quero ser o melhor do mundo, nem o melhor de todos.</br>
 Quero e vou ser o melhor possível, do que eu era ontem.</br>
 E amanhã sempre será um bom dia, pra que eu possa ser um homem melhor do que fui hoje.
-</br>
+
+
 >### <span style="color: grey;">- Chico Xavier disse:</span>
 >A gente pode morar numa casa mais ou menos, numa rua mais ou menos, numa cidade mais ou menos, e até ter um governo mais ou menos.><br>
 >A gente pode dormir numa cama mais ou menos, comer um feijão mais ou menos, ter um transporte mais ou menos, e até ser obrigado a acreditar mais ou menos no futuro.
