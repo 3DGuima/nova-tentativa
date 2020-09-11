@@ -41,7 +41,7 @@ Deu pra ganhar uns “troféuzinhos” viu. Hehehe!
 
 De São José do Rio Preto, fui para Presidente Prudente onde trabalhei por algum tempo, voltei pra Bauru e encerrei essa fase da vida.
 
-Netsa fase em que trabalhei neste segmento de academias, já me interessava e me envolvia com promoções e eventos, internamente e externamente, o que me levou a descobrir que gostava da área de Publicidade, Propaganda e Marketing.
+Nesta fase em que trabalhei neste segmento de academias, já me interessava e me envolvia com promoções e eventos, internamente e externamente, o que me levou a descobrir que gostava da área de Publicidade, Propaganda e Marketing.
 
 Minha especialidade era "Redação Publicitária" e tinha (tenho) muita facilidade em escrever, o que não me ajudou muito nesse começo.
 
@@ -63,9 +63,10 @@ Já dei muitas aulas em muitos lugares, em ocasiões e lugares exóticos, improv
 
 Tanto nas aulas relacionadas a academia como nas aulas envolvendo tecnologia, comunicação e internet, aprender e ensinar sempre fizeram parte do meu dia a dia.
 
-Sou apaixonado por:</br>- Tecnologia, internet, comunicação, e mais recentemente, por 3D.
-- Lecionar, dar aulas, ensinando o que puder e quando puder!
-- Adquirir conhecimento e experiência.
+Sou apaixonado por:<br>
+- Tecnologia, internet, comunicação, e mais recentemente, por 3D.<br>
+- Lecionar, dar aulas, ensinando o que puder e quando puder.<br>
+- Adquirir conhecimento e experiência.<br>
 
 Dessa forma, desde então, venho fazendo meus trabalhos, me virando e procurando sempre me atualizar com as rápidas mudanças que a tecnologia da informação e comunicação vem nos trazendo.
 
@@ -89,11 +90,11 @@ Mas lhe garanto que não, não é!
 Continue lendo…
 
 Me afirmo dessa forma pelos seguintes motivos:</br>
-- É amadurecimento e experiência.
-- É busca de autoconhecimento e aprendizado constante.
-- É reconhecimento dos próprios erros.
-- É tentar de novo sempre, sem medo de errar.
-- É sempre buscar errar menos, observando o que se aprendeu, para poder acertar mais seguindo em frente, na caminhada de evolução da vida.
+- É amadurecimento e experiência.<br>
+- É busca de autoconhecimento e aprendizado constante.<br>
+- É reconhecimento dos próprios erros.<br>
+- É tentar de novo sempre, sem medo de errar.<br>
+- É sempre buscar errar menos, observando o que se aprendeu, para poder acertar mais seguindo em frente, na caminhada de evolução da vida.<br>
 
 Seguir por esse caminho me rendeu, **“Graças a Deus”**, uma família linda, e especialmente, uma esposa maravilhosa; que demorei encontrar, mas que descobrimos juntos depois, que toda a demora para nosso encontro (reencontro) era pra nos prepararmos um para o outro (nesta atual caminhada).
 
@@ -126,11 +127,11 @@ Entendi que “o politicamente correto”, só existe politicamente, que não é
 - Não renego meus erros nem desprezo meus acertos, se você gostar de mim ótimo, se não, bom também.</br>**Mas lembre-se; “A REGRA VALE PARA NÓS TODOS”.**
 
 Quero muito:</br>
-- Que a sociedade em que vivo tenha leis respeitadas por todos e para todos.
-- Que as instituições estruturais, políticas e sociais, que são a base da sociedade, sejam independentes sim, mas reguladas na decência, ética e na moral, sem distinção de sexo, cor, raça, nacionalidade, posição social, política ou econômica.
-- Que possa garantir minha liberdade pessoal, desde que essa liberdade não infrinja as leis, não fira o conceito de "viver em sociedade" e não prejudique a boa convivência e a liberdade da comunidade.
-- Tentar de novo sempre, sem medo de errar.
-- Sempre buscar errar menos, observando o que aprendi, para poder acertar mais seguindo em frente, na caminhada de evolução da vida.
+- Que a sociedade em que vivo tenha leis respeitadas por todos e para todos.<br>
+- Que as instituições estruturais, políticas e sociais, que são a base da sociedade, sejam independentes sim, mas reguladas na decência, ética e na moral, sem distinção de sexo, cor, raça, nacionalidade, posição social, política ou econômica.<br>
+- Que possa garantir minha liberdade pessoal, desde que essa liberdade não infrinja as leis, não fira o conceito de "viver em sociedade" e não prejudique a boa convivência e a liberdade da comunidade.<br>
+- Tentar de novo sempre, sem medo de errar.<br>
+- Sempre buscar errar menos, observando o que aprendi, para poder acertar mais seguindo em frente, na caminhada de evolução da vida.<br>
  
 **Deu pra entender?**
 
