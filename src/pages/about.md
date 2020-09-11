@@ -77,7 +77,7 @@ Agora vejo um mundo onde essas definições vem mudando muito, e sou extremament
 
 Mais recentemente descobri o **“mundo 3D”**, *criação e produção de imagens estáticas ou em movimento em 3 dimensões utilizando computação gráfica*.
 
-Esse é um segmento que necessita de uma habilidade que eu me julgava incapaz de desenvolver quando mais novo, e hoje sendo um bom e velho garoto *“50taõ”**, tenho estudado e praticado, tem pelo menos aí, em torno de “1 ano e meio”, cada vez mais apaixonado por isso e melhorando aos poucos.
+Esse é um segmento que necessita de uma habilidade que eu me julgava incapaz de desenvolver quando mais novo, e hoje sendo um bom e velho garoto *“50tão”**, tenho estudado e praticado, tem pelo menos aí, em torno de “1 ano e meio”, cada vez mais apaixonado por isso e melhorando aos poucos.
 
 ----
 
@@ -85,9 +85,9 @@ Eu sou um cara legal viu!
 
 É eu sei, parece um traço de arrogância ou prepotência esse tipo de afirmação, você até pode estar pensando.
 
-Mas lhe garanto que não, não é! Continue lendo…
+Mas lhe garanto que não, não é!
 
-</br>
+Continue lendo…
 
 Me afirmo dessa forma pelos seguintes motivos:
 - É amadurecimento e experiência.
@@ -95,8 +95,6 @@ Me afirmo dessa forma pelos seguintes motivos:
 - É reconhecimento dos próprios erros.
 - É tentar de novo sempre, sem medo de errar.
 - É sempre buscar errar menos, observando o que se aprendeu, para poder acertar mais seguindo em frente, na caminhada de evolução da vida.
-
-</br>
 
 Seguir por esse caminho me rendeu, **“Graças a Deus”**, uma família linda, e especialmente, uma esposa maravilhosa; que demorei encontrar, mas que descobrimos juntos depois, que toda a demora para nosso encontro (reencontro) era pra nos prepararmos um para o outro (nesta atual caminhada).
 
