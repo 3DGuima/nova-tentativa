@@ -6,6 +6,8 @@ sections:
     type: section_hero
     title: 3DGuima
     content: >-
+      Olá, como vai?
+
       Aqui você encontrará meu portfolio, alguns de meus trabalhos e meu
       currículo.</br>
 
@@ -27,14 +29,6 @@ sections:
     actions:
       - label: CONTATO
         url: /contact
-        style: button
-  - section_id: recent-posts
-    type: section_posts
-    title: PUBLICAÇÕES RECENTES
-    posts_number: 4
-    actions:
-      - label: View Blog
-        url: blog/index.html
         style: button
 template: advanced
 ---
