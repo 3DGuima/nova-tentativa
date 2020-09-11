@@ -15,17 +15,17 @@
                 "style": "link"
             },
             {
-                "label": "Portfolio 3D",
-                "url": "/blog/",
-                "style": "link"
-            },
-            {
                 "label": "Portfolio",
                 "url": "/blog/",
                 "style": "link",
                 "icon_class": "lorem-ipsum",
                 "new_window": false,
                 "type": "action"
+            },
+            {
+                "label": "Portfolio 3D",
+                "url": "/portfolio/",
+                "style": "link"
             },
             {
                 "label": "Style Guide",
