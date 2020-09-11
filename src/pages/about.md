@@ -63,7 +63,7 @@ Já dei muitas aulas em muitos lugares, em ocasiões e lugares exóticos, improv
 
 Tanto nas aulas relacionadas a academia como nas aulas envolvendo tecnologia, comunicação e internet, aprender e ensinar sempre fizeram parte do meu dia a dia.
 
-Sou apaixonado por:
+Sou apaixonado por:</br>
 - Tecnologia, internet, comunicação, e mais recentemente, por 3D.
 - Lecionar, dar aulas, ensinando o que puder e quando puder!
 - Adquirir conhecimento e experiência.
@@ -89,7 +89,7 @@ Mas lhe garanto que não, não é!
 
 Continue lendo…
 
-Me afirmo dessa forma pelos seguintes motivos:
+Me afirmo dessa forma pelos seguintes motivos:</br>
 - É amadurecimento e experiência.
 - É busca de autoconhecimento e aprendizado constante.
 - É reconhecimento dos próprios erros.
@@ -126,7 +126,7 @@ Entendi que “o politicamente correto”, só existe politicamente, que não é
 - Eu sei o que quero, e principalmente o que não quero.
 - Não renego meus erros nem desprezo meus acertos, se você gostar de mim ótimo, se não, bom também.</br>**Mas lembre-se; “A REGRA VALE PARA NÓS TODOS”.**
 
-Quero muito:
+Quero muito:</br>
 - Que a sociedade em que vivo tenha leis respeitadas por todos e para todos.
 - Que as instituições estruturais, políticas e sociais, que são a base da sociedade, sejam independentes sim, mas reguladas na decência, ética e na moral, sem distinção de sexo, cor, raça, nacionalidade, posição social, política ou econômica.
 - Que possa garantir minha liberdade pessoal, desde que essa liberdade não infrinja as leis, não fira o conceito de "viver em sociedade" e não prejudique a boa convivência e a liberdade da comunidade.
