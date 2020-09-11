@@ -63,8 +63,7 @@ Já dei muitas aulas em muitos lugares, em ocasiões e lugares exóticos, improv
 
 Tanto nas aulas relacionadas a academia como nas aulas envolvendo tecnologia, comunicação e internet, aprender e ensinar sempre fizeram parte do meu dia a dia.
 
-Sou apaixonado por:</br>
-- Tecnologia, internet, comunicação, e mais recentemente, por 3D.
+Sou apaixonado por:</br>- Tecnologia, internet, comunicação, e mais recentemente, por 3D.
 - Lecionar, dar aulas, ensinando o que puder e quando puder!
 - Adquirir conhecimento e experiência.
 
