@@ -1,4 +1,4 @@
 ---
 title: Portfolio 3D
-template: pórtfolio
+template: portfolio
 ---
