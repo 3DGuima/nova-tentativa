@@ -6,6 +6,8 @@ sections:
     type: section_hero
     title: 3DGuima
     content: >-
+      Olá, como vai?
+
       Aqui você encontrará meu portfolio, alguns de meus trabalhos e meu
       currículo.</br>
 
