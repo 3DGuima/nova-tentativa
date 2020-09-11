@@ -109,9 +109,9 @@ E com isso lhe afirmo então - "Ser legal é um estado de espírito, é uma esco
 ></br>
 >
 >Nessa hora, “você perdeu para sempre”:
->- A sua suposta segurança
->- A fantasia de qualquer benefício futuro da isenção eterna
->- E a sua oportunidade, até então, de escolher um lado, de se **"POSICIONAR"**
+>- A sua suposta segurança.
+>- A fantasia de qualquer benefício futuro da isenção eterna.
+>- E a sua oportunidade, até então, de escolher um lado, de se **"POSICIONAR".**
 >
 >### <span style="color: grey;">- Esse barbudo disse também:</span>
 >O “auto intitulado” “pessoa de bem”, quando nulo ou isento, é um praticante e colaborador “DO MAL”.</br>
@@ -141,7 +141,7 @@ Preciso pensar em mim, mas se o que me supre, fere o que supre a sociedade em qu
 
 Meu direito de liberdade de expressão, de ir e vir e de atuação dentro de uma sociedade, não pode transpor a todos esses mesmos direitos relacionados ao todo, ao conjunto, ao coletivo dessa mesma sociedade.
 
-Da mesma forma, **meu direito "em garantir isso"**
+Da mesma forma, **meu direito "em garantir isso".**
 
 E defendo, com unhas e dentes, o seu direito de pensar da mesma forma ou pensar diferente, desde que respeite, assim como eu respeito, as leis dos homens, e principalmente as **Leis de Deus!**
 </br>
