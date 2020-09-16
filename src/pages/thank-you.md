@@ -1,9 +1,10 @@
 ---
-title: Thank You!
+title: Obrigado!
 img_path: images/thank-you.jpg
 template: page
 ---
 
-Thank you for contacting me! I will get back in touch with you soon.
+Obrigado pelo contato!
+Retornarei assim que possível!
 
-**Have a great day!**
+**Tenha um ótimo dia!**
