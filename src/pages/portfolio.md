@@ -5,7 +5,7 @@ excerpt: lorem-ipsum
 sections:
   - section_id: hero
     type: section_hero
-    title: 3DGuima
+    title: Portfolio
     content: >
       Olá, como vai?
 
