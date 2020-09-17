@@ -16,7 +16,7 @@ sections:
       Seja bem vindo!
     actions:
       - label: lorem-ipsum
-        url: lorem-ipsum
+        url: 'mailto:3dguima@gmail.com'
         style: link
         icon_class: lorem-ipsum
         new_window: false
