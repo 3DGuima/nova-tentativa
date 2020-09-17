@@ -35,7 +35,7 @@ sections:
       - label: Contato
         url: /contact/
         style: button
-        icon_class: fa-email
+        icon_class: fa-mail
         new_window: false
         type: action
 template: advanced
