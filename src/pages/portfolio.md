@@ -15,7 +15,7 @@ sections:
 
       - - - -
     actions:
-      - label: B1
+      - label: 3D
         url: lorem-ipsum
         style: button
         icon_class: lorem-ipsum
