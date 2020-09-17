@@ -30,7 +30,7 @@ sections:
 
       - - - -
     actions:
-      - label: Cpntato
+      - label: Contato
         url: lorem-ipsum
         style: link
         icon_class: lorem-ipsum
