@@ -36,7 +36,7 @@
                 "label": "Contato",
                 "url": "/contact/",
                 "style": "link",
-                "icon_class": "fa-"
+                "icon_class": "fa-vimeo"
             }
         ],
         "has_social": true,
