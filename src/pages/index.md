@@ -28,7 +28,7 @@ sections:
       Entre em contato e mande sua mensagem.
     actions:
       - label: CONTATO
-        url: 'mailto:3dguima@gmail.com'
+        url: 'mailto:3dguima@gmail.com)'
         style: link
         new_window: true
 template: advanced
