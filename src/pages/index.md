@@ -18,7 +18,7 @@ sections:
       - - - -
     actions:
       - label: Portfolio
-        url: //
+        url: /portfolio/
         style: link
         icon_class: lorem-ipsum
         new_window: false
