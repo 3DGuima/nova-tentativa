@@ -96,7 +96,7 @@
                 "label": "Email",
                 "url": "lorem-ipsum",
                 "style": "icon",
-                "icon_class": "fa-at",
+                "icon_class": "fa-envelope",
                 "new_window": false,
                 "type": "action"
             }
