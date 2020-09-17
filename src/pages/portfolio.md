@@ -31,7 +31,7 @@ sections:
       - - - -
     actions:
       - label: Contato
-        url: lorem-ipsum
+        url: //
         style: link
         icon_class: lorem-ipsum
         new_window: false
