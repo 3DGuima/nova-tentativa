@@ -94,7 +94,7 @@
             },
             {
                 "label": "Email",
-                "url": "contact",
+                "url": "mailto",
                 "style": "icon",
                 "icon_class": "fa-envelope",
                 "new_window": false,
