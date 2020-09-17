@@ -32,7 +32,7 @@ sections:
 
       - - - -
     actions:
-      - label: lorem-ipsum
+      - label: Contato
         url: lorem-ipsum
         style: link
         icon_class: lorem-ipsum
