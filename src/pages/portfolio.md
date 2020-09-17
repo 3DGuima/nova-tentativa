@@ -29,8 +29,6 @@ sections:
       Entre em contato e mande sua mensagem.
 
       - - - -
-
-      ###### [CONTATO](mailto:3dguima@gmail.com)
     actions: []
 template: advanced
 ---
