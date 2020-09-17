@@ -16,7 +16,7 @@
             },
             {
                 "label": "Portfolio",
-                "url": "/thank-you",
+                "url": "/portfolio",
                 "style": "link",
                 "icon_class": "lorem-ipsum",
                 "new_window": false,
