@@ -35,7 +35,8 @@
             {
                 "label": "Contato",
                 "url": "/contact/",
-                "style": "link"
+                "style": "link",
+                "icon_class": "fa-mai"
             }
         ],
         "has_social": true,
