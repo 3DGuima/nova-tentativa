@@ -30,5 +30,6 @@ sections:
       - label: CONTATO
         url: '/mailto:3dguima@gmail.com'
         style: button
+        new_window: true
 template: advanced
 ---
