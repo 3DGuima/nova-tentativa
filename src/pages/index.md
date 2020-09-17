@@ -28,7 +28,7 @@ sections:
       Entre em contato e mande sua mensagem.
     actions:
       - label: CONTATO
-        url: /mailto
+        url: '/mailto:'
         style: button
 template: advanced
 ---
