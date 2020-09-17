@@ -14,6 +14,13 @@ sections:
       Espero que aprecie.
 
       Seja bem vindo!
+    actions:
+      - label: lorem-ipsum
+        url: lorem-ipsum
+        style: link
+        icon_class: lorem-ipsum
+        new_window: false
+        type: action
   - section_id: about
     type: section_content
     title: RESUMO
