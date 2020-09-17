@@ -5,7 +5,7 @@ sections:
   - section_id: hero
     type: section_hero
     title: 3DGuima
-    content: >-
+    content: >
       Olá, como vai?
 
       Aqui você encontrará meu portfolio, alguns de meus trabalhos e meu
@@ -14,6 +14,8 @@ sections:
       Espero que aprecie.
 
       Seja bem vindo!
+
+      - - - -
     actions: []
   - section_id: about
     type: section_content
