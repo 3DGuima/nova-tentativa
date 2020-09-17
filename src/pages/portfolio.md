@@ -15,7 +15,7 @@ sections:
 
       - - - -
     actions:
-      - label: lorem-ipsum
+      - label: B1
         url: lorem-ipsum
         style: link
         icon_class: lorem-ipsum
