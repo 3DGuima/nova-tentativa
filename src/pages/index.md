@@ -31,5 +31,11 @@ sections:
         url: '(mailto:3dguima@gmail.com)'
         style: link
         new_window: true
+      - label: lorem-ipsum
+        url: lorem-ipsum
+        style: link
+        icon_class: lorem-ipsum
+        new_window: false
+        type: action
 template: advanced
 ---
