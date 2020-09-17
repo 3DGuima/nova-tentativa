@@ -21,7 +21,7 @@ sections:
         icon_class: lorem-ipsum
         new_window: false
         type: action
-      - label: B2
+      - label: Impressos
         url: lorem-ipsum
         style: button
         icon_class: lorem-ipsum
