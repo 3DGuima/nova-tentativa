@@ -29,7 +29,7 @@ sections:
     actions:
       - label: CONTATO
         url: ''
-        style: button
+        style: link
         new_window: true
 template: advanced
 ---
