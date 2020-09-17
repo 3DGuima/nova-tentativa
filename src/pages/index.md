@@ -35,7 +35,7 @@ sections:
       - label: Contato
         url: /contact/
         style: button
-        icon_class: lorem-ipsum
+        icon_class: fa-email
         new_window: false
         type: action
 template: advanced
