@@ -16,7 +16,7 @@
             },
             {
                 "label": "Portfolio",
-                "url": "/contact.md",
+                "url": "/",
                 "style": "link",
                 "icon_class": "lorem-ipsum",
                 "new_window": false,
