@@ -7,14 +7,11 @@ sections:
     type: section_hero
     title: Portfolio
     content: >
-      Olá, como vai?
-
-      Aqui você encontrará meu portfolio, alguns de meus trabalhos e meu
-      currículo.</br>
+      Aqui você encontrará meu portfolio, com trabalhos que venho desenvolvendo,
+      com muito estudo, sempre em busca de um melhor aperfeiçoamento e
+      capacitação profissional.</br>
 
       Espero que aprecie.
-
-      Seja bem vindo!
 
       - - - -
     actions: []
