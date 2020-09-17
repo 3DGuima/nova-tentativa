@@ -14,13 +14,7 @@ sections:
       Espero que aprecie.
 
       Seja bem vindo!
-    actions:
-      - label: lorem-ipsum
-        url: 'mailto:3dguima@gmail.com'
-        style: link
-        icon_class: lorem-ipsum
-        new_window: false
-        type: action
+    actions: []
   - section_id: about
     type: section_content
     title: RESUMO
