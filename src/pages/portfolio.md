@@ -27,7 +27,7 @@ sections:
         icon_class: lorem-ipsum
         new_window: false
         type: action
-      - label: Radio/Vídeo
+      - label: Vídeo
         url: lorem-ipsum
         style: button
         icon_class: lorem-ipsum
