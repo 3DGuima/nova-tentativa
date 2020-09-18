@@ -25,7 +25,7 @@ sections:
         type: action
   - section_id: about
     type: section_content
-    title: '**RESUMO**'
+    title: '** RESUMO **'
     content: >-
       Sou publicitário por formação acadêmica, sou designer, sou diagramador e
       sou artista 3D, além de algumas outras capacitações e competências que
