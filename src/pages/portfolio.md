@@ -7,9 +7,9 @@ sections:
     type: section_hero
     title: Portfolio
     content: >
-      Aqui você encontrará meu portfolio, com trabalhos que venho desenvolvendo,
-      com muito estudo, sempre em busca de um melhor aperfeiçoamento e
-      capacitação profissional.</br>
+      Aqui você encontrará meu portfolio, com minhas criações em 3D para vários
+      segmentos, com livros, revistas, jornais, impressos promocionais, vídeos,
+      spots de rádio e muito mais.</br>
 
       Espero que aprecie.
 
