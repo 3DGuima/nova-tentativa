@@ -18,7 +18,7 @@ export const query = graphql`
 
 export default class Blog extends React.Component {
     render() {
-        let display_posts = _.orderBy(getPages(this.props.pageContext.pages, '/posts3d'), 'frontmatter.date', 'desc');
+        let display_posts = _.orderBy(getPages(this.props.pageContext.pages, '/3d-posts'), 'frontmatter.date', 'desc');
         return (
             <Layout {...this.props}>
               <header className="screen-reader-text">
