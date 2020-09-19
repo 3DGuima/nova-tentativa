@@ -5,19 +5,40 @@ excerpt: lorem-ipsum
 sections:
   - section_id: hero
     type: section_hero
-    title: 3DGuima
+    title: Portfolio
     content: >
-      Olá, como vai?
-
-      Aqui você encontrará meu portfolio, alguns de meus trabalhos e meu
-      currículo.</br>
+      Aqui você encontrará meu portfolio, com minhas criações em **3D** para
+      vários segmentos, com livros, revistas, jornais, **impressos**
+      promocionais, **vídeos**, spots de **rádio** e muito mais.</br>
 
       Espero que aprecie.
 
-      Seja bem vindo!
-
       - - - -
-    actions: []
+    actions:
+      - label: 3D
+        url: lorem-ipsum
+        style: button
+        icon_class: lorem-ipsum
+        new_window: false
+        type: action
+      - label: Impressos
+        url: lorem-ipsum
+        style: button
+        icon_class: lorem-ipsum
+        new_window: false
+        type: action
+      - label: Vídeo
+        url: lorem-ipsum
+        style: button
+        icon_class: lorem-ipsum
+        new_window: false
+        type: action
+      - label: Radio
+        url: lorem-ipsum
+        style: button
+        icon_class: lorem-ipsum
+        new_window: false
+        type: action
   - section_id: about
     type: section_content
     title: RESUMO
@@ -32,8 +53,12 @@ sections:
       Entre em contato e mande sua mensagem.
 
       - - - -
-
-      ###### [CONTATO](mailto:3dguima@gmail.com)
-    actions: []
+    actions:
+      - label: Contato
+        url: /contact
+        style: button
+        icon_class: lorem-ipsum
+        new_window: false
+        type: action
 template: advanced
 ---

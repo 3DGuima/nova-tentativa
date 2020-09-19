@@ -16,7 +16,13 @@ sections:
       Seja bem vindo!
 
       - - - -
-    actions: []
+    actions:
+      - label: Portfolio
+        url: /portfolio/
+        style: button
+        icon_class: lorem-ipsum
+        new_window: false
+        type: action
   - section_id: about
     type: section_content
     title: RESUMO
@@ -31,8 +37,12 @@ sections:
       Entre em contato e mande sua mensagem.
 
       - - - -
-
-      ###### [CONTATO](mailto:3dguima@gmail.com)
-    actions: []
+    actions:
+      - label: Contato
+        url: /contact/
+        style: button
+        icon_class: ''
+        new_window: false
+        type: action
 template: advanced
 ---

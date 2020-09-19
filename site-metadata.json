@@ -16,7 +16,7 @@
             },
             {
                 "label": "Portfolio",
-                "url": "/thank-you",
+                "url": "/3d-pages",
                 "style": "link",
                 "icon_class": "lorem-ipsum",
                 "new_window": false,
@@ -35,7 +35,8 @@
             {
                 "label": "Contato",
                 "url": "/contact/",
-                "style": "link"
+                "style": "link",
+                "icon_class": ""
             }
         ],
         "has_social": true,
