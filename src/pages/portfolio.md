@@ -16,7 +16,7 @@ sections:
       - - - -
     actions:
       - label: 3D
-        url: /3d-pages
+        url: /3d-pages/
         style: button
         icon_class: lorem-ipsum
         new_window: false
